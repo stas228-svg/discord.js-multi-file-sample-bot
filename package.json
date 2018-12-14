@@ -1,0 +1,22 @@
+{
+  "name": "Sunqual",
+  "version": "1.0.0",
+  "description": "Sunqual is a bot created for fun and entertainment.",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "discord"
+  ],
+  "author": "VizuDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+    },
+  "engines": {
+    "node": "8.10.0"
+  }
+}
