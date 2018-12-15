@@ -1,4 +1,6 @@
-  if(command === "suicide") {
+
+
+exports.run = (client, message, args) => {
     var sayings = [ 'https://pm3-cl.dws.nry.infinitycdn.ml/sunqualmedia/suicide-gifs/suicide1.gif',
                     'https://pm3-cl.dws.nry.infinitycdn.ml/sunqualmedia/suicide-gifs/suicide2.gif',
                     'https://pm3-cl.dws.nry.infinitycdn.ml/sunqualmedia/suicide-gifs/suicide3.gif',
