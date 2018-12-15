@@ -1,4 +1,6 @@
-  if(command === "pat") {
+
+
+exports.run = (client, message, args) => {
     var sayings = [ 'https://pm3-cl.dws.nry.infinitycdn.ml/sunqualmedia/pat/pat1.gif',
                     'https://pm3-cl.dws.nry.infinitycdn.ml/sunqualmedia/pat/pat2.gif',
                     'https://pm3-cl.dws.nry.infinitycdn.ml/sunqualmedia/pat/pat3.gif',
