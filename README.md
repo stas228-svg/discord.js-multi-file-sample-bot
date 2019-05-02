@@ -4,7 +4,6 @@
 #---
 #---
 [![discord](https://cdn.discordapp.com/attachments/572906360363286549/573620917276770316/discord.png)](https://discord.gg/D6SCpjz)
-| --- |
 | **Join my Discord server for help.** |
 
 
